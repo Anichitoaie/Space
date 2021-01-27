@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Magic_square/.idea/Magic_square.iml" filepath="$PROJECT_DIR$/../Magic_square/.idea/Magic_square.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Space.iml" filepath="$PROJECT_DIR$/.idea/Space.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/TIM/.idea/TIM.iml" filepath="$USER_HOME$/Desktop/TIM/.idea/TIM.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/drFT1/.idea/drFT1.iml" filepath="$USER_HOME$/Desktop/drFT1/.idea/drFT1.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/kivy/.idea/kivy.iml" filepath="$USER_HOME$/Desktop/kivy/.idea/kivy.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/O'reily_python_training/python-level-2-master/.idea/python-level-2-master.iml" filepath="$USER_HOME$/Desktop/O'reily_python_training/python-level-2-master/.idea/python-level-2-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject1/.idea/pythonProject1.iml" filepath="$PROJECT_DIR$/../pythonProject1/.idea/pythonProject1.iml" />
+    </modules>
+  </component>
+</project>
